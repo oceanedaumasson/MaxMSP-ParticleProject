@@ -1,1 +1,2 @@
+<img width="2741" height="1748" alt="calmchaos" src="https://github.com/user-attachments/assets/18a967d5-ac6d-4500-8dce-4a23f656112c" />
 This project explores emotional contrast (calm vs. chaos) through real-time generative audio-visual systems. Using Max/MSP and Jitter, I built particle-based visuals and chaotic attractors whose behavior evolves through sound, time-based randomization, and camera motion.
